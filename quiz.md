@@ -5,7 +5,7 @@ ___
 Hello, congratulations and thank you for taking part in this Internal Training on Genetic Algorithm. To test your abilities, let's do the quiz.
 ___
  
-1. Which one is not an optimization problem?:
+1. Which one is not an optimization problem?
    - [ ] Finding the shortest path
    - [ ] Forecasting future demand
    - [ ] Maximize profit
@@ -83,6 +83,7 @@ library(GA)
 
 ga_survive <- ga(type = ...., fitness = ...., nBits = ..., popSize = 100, maxiter = 100, run = 20, seed = 123)
 ```
+
 
 8. The algorithm will stop on the following condition, EXCEPT ...
    - [ ] Reach iteration 123
