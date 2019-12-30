@@ -6,3 +6,8 @@ This page is dedicated for introduction to Genetic Algorithm for optimization pr
 
 "Genetic algorithms (GAs) are stochastic search algorithms inspired by the basic principles of biological evolution and natural selection. GAs simulate the evolution of living organisms, where the fittest individuals dominate over the weaker ones, by mimicking the biological mechanisms of evolution, such as selection, crossover and mutation." - Luca Scrucca
 
+Before you venture the course, you may check if you have fulfilled pre-requisite below in order to understand the article and the case example:
+
+* General understanding of optimization problem such as what is an objective or fitness function is, what a constraint is, and such
+* Machine learning workflow, including cross-validation, data preprocessing, model fitting and evaluation
+* General understanding of Random Forest mechanism and parameters
