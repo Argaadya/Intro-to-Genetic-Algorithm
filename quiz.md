@@ -10,21 +10,21 @@ ___
    - [ ] Forecasting future demand
    - [ ] Maximize profit
 
-<br>
+
 
 2. Which statement is **WRONG** about Genetic Algorithm
    - [ ] Genetic Algorithm is inspired by biological evolution
    - [ ] Genetic Algorithm can only has one optimal solution
    - [ ] Genetic Algorithm can only has one optimal fitness value
 
-<br>
+
 
 3. A pool of solutions in Genetic Algorithm is called:
    - [ ] Population
    - [ ] Chromosomes
    - [ ] Genes
 
-<br> 
+ 
 
 ___
 **Instructions for number 4-10**
@@ -39,16 +39,14 @@ ___
    - [ ] Maximize total weight 
    - [ ] Maximize survival points constrained by total weight
 
-<br>
+
 
 5. What is the constraint for the problem?
    - [ ] Weight limit > 20
    - [ ] Surival point <= 20
    - [ ] Weight limit <= 20
 
-<br>
 
-6. Complete the function below to create the fitness function
 
 ```
 weightlimit <- 20
@@ -64,18 +62,21 @@ evalFunc <- function(x) {
   return(total_survival)
 }
 ```
+
+6. Complete the function above to create the fitness function
+
    - [ ] ifelse(total_weight >= weightlimit , 0 , total_survival )
    - [ ] ifelse(total_weight <= weightlimit , 0 , total_survival )
    - [ ] ifelse(total_weight >= weightlimit , total_survival , 0 )
 
-<br>
+
 
 7. What is the type of encoding we will use?
    - [ ] binary
    - [ ] real-valued
    - [ ] permutation
 
-<br> 
+
 
 ```
 library(GA)
@@ -88,14 +89,14 @@ ga_survive <- ga(type = ...., fitness = ...., nBits = ..., popSize = 100, maxite
    - [ ] No improvement on the best solution after 20 iteration
    - [ ] Reach iteration 100
 
-<br>
+
 
 9. What is the optimal survival points?
    - [ ] 20
    - [ ] 102
    - [ ] 67.38
 
-<br>
+
 
 10. What item we should not bring based on the optimal solution?
     - [ ] potatoes
