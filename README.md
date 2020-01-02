@@ -11,3 +11,7 @@ Before you venture the course, you may check if you have fulfilled pre-requisite
 * General understanding of optimization problem such as what is an objective or fitness function is, what a constraint is, and such
 * Machine learning workflow, including cross-validation, data preprocessing, model fitting and evaluation
 * General understanding of Random Forest mechanism and parameters
+
+# Slide Presentation
+
+https://docs.google.com/presentation/d/1DvdGCyzPuJ7xFMlKEpSN50-UvRP7n1vLL_uYr8o_W_8/edit?usp=sharing
