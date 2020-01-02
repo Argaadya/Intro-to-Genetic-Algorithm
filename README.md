@@ -12,6 +12,6 @@ Before you venture the course, you may check if you have fulfilled pre-requisite
 * Machine learning workflow, including cross-validation, data preprocessing, model fitting and evaluation
 * General understanding of Random Forest mechanism and parameters
 
-# Slide Presentation
+## Slide Presentation
 
 https://docs.google.com/presentation/d/1DvdGCyzPuJ7xFMlKEpSN50-UvRP7n1vLL_uYr8o_W_8/edit?usp=sharing
