@@ -14,4 +14,4 @@ Before you venture the course, you may check if you have fulfilled pre-requisite
 
 ## Slide Presentation
 
-https://docs.google.com/presentation/d/1DvdGCyzPuJ7xFMlKEpSN50-UvRP7n1vLL_uYr8o_W_8/edit?usp=sharing
+http://bit.ly/intro-genetic
